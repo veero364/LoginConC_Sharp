@@ -1,0 +1,5 @@
+C:\Users\Veronica\Desktop\DEMO\Entidades\bin\Debug\Entidades.dll
+C:\Users\Veronica\Desktop\DEMO\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Veronica\Desktop\DEMO\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Veronica\Desktop\DEMO\Entidades\obj\Debug\Entidades.dll
+C:\Users\Veronica\Desktop\DEMO\Entidades\obj\Debug\Entidades.pdb

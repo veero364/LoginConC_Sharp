@@ -1,0 +1,8 @@
+C:\Users\Veronica\Desktop\DEMO\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Veronica\Desktop\DEMO\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Veronica\Desktop\DEMO\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Veronica\Desktop\DEMO\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Veronica\Desktop\DEMO\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\Veronica\Desktop\DEMO\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Veronica\Desktop\DEMO\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Veronica\Desktop\DEMO\Persistencia\obj\Debug\Persistencia.pdb

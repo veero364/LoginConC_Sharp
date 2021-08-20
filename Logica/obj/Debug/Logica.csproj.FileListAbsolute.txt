@@ -1,0 +1,10 @@
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Logica.dll
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Logica.pdb
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Entidades.dll
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Persistencia.dll
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Entidades.pdb
+C:\Users\Veronica\Desktop\DEMO\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Veronica\Desktop\DEMO\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Veronica\Desktop\DEMO\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Veronica\Desktop\DEMO\Logica\obj\Debug\Logica.dll
+C:\Users\Veronica\Desktop\DEMO\Logica\obj\Debug\Logica.pdb
